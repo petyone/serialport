@@ -1,0 +1,21 @@
+{
+  "name": "serialport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "author": "petyone",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^6.2.2",
+    "express": "^4.13.3",
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
